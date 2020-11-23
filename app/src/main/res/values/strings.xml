@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a Message</string>
+    <string name="button_send">Send</string>
+    <string name="buttonCat">Sound One</string>
+    <string name="buttonDog">Sound Two</string>
+    <string name="buttonThree">Sound Three</string>
+    <string name="buttonFour">Sound Four</string>
+    <string name="buttonFive">Sound Five</string>
+    <string name="buttonSix">Sound Six</string>
+</resources>
